@@ -1,3 +1,5 @@
+https://github.com/waleedisskandar-bot/AI-LungCare
+
 1. What did I contribute this week?
 I wrote the first version of our project_concept.md file, describing the problem, objectives, and AI approach. I also reviewed other team members’ sections to ensure consistent formatting.
 
