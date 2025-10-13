@@ -1,3 +1,7 @@
+ALMANDARI WALEED ISSKANDAR
+B032220031 
+https://github.com/waleedisskandar-bot/AI-LungCare
+
 1. What did I contribute this week?
 I helped organize our GitHub repository, created the folder structure, and uploaded the Week 01 mind map to the /docs/ folder. I also participated in defining our AI LungCare project concept with the team.
 
