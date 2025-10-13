@@ -1,3 +1,6 @@
+https://github.com/waleedisskandar-bot/AI-LungCare
+ALWALEED HASSAN ELYAS   B032310752
+
 1. What did I contribute this week?
 I created the project workflow diagram using Miro, showing how data moves from input (X-ray and cough sound) to output (diagnosis and dashboard).
 
