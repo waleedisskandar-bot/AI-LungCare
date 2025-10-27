@@ -1,4 +1,5 @@
 # Reflection Week 03 - Alwaleed Hassan Elyas - B032310752
+https://github.com/waleedisskandar-bot/AI-LungCare
 
 ## What was the most challenging part of building the schedule?
 The hardest part was identifying task dependencies and deciding which activities could run in parallel. It required understanding the workflow of the project in detail.
