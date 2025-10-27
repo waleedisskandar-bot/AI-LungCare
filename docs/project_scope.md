@@ -1,38 +1,31 @@
-
 # Project Scope Document
 
-## 1) Project Title
-AI-LungCare
+## Objectives
+- To design and develop a web-based platform that integrates multiple
+AI tools for lung health assessment.
+- To implement multiple CNN models for pneumonia detection using
+chest X-ray images
+- To evaluate the overall system performance and the prediction accuracy
+of the models
 
-## 2) Objectives
-- What the system will achieve (e.g., assist with lung condition classification; insights & reports).
+## Deliverables
+- Preprocessed medical datasets (X-ray, lung cancer, and cough sound data)
+- Trained AI models (CNN, Random Forest, GPT-powered analyzer)
+- Comprehensive technical report and evaluation
+- Interactive dashboard with integrated AI modules and chatbot
 
-## 3) Deliverables
-- Cleaned datasets
-- Training notebooks / scripts
-- Model artifacts
-- Evaluation report (metrics, confusion matrix)
-- Demo dashboard / notebook
-- Final presentation & documentation
+## Stakeholders
+- **Team Members:**  
+  Waleed Isskandar Almandari  
+  Yaseen Mohammed Awad  
+  Alwaleed Hassan Elyas  
 
-## 4) Stakeholders & Roles
-- Client / End users:
-- Product owner / Supervisor:
-- Team members & responsibilities (data prep / modeling / evaluation / docs):
+- **Supervisor / Client:**  
+  Dr. Farhan Khan, Senior Lecturer at UTeM Malacca, Assistant Professor at GIK Institute, Corporate Trainer of AI and Data Science
 
-## 5) Assumptions & Out of Scope
-- Assumptions: data available for academic use, etc.
-- Out of scope: production deployment; clinical decisions without supervision
-
-## 6) Tools & Integration
-- GitHub (version control)
-- MS Teams (collab & evidence)
-- Excel / MS Project (schedule)
-- Python + notebooks (modeling)
-
-## 7) High-Level Milestones
-- M1: Requirements confirmed
-- M2: Data prepared
-- M3: Baseline model
-- M4: Evaluation complete
-- M5: Presentation ready
+## Tools & Integration
+- MS Project for scheduling and task tracking  
+- GitHub for version control and collaborative development  
+- MS Teams for communication and coordination  
+- Google Colab (Python) for model training and testing  
+- React & Flask for web system integration  
