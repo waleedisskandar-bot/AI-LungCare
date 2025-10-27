@@ -1,4 +1,5 @@
 # Reflection Week 03 - Waleed Isskandar Almandari - B032220031
+https://github.com/waleedisskandar-bot/AI-LungCare
 
 ## What was the most challenging part of building the schedule?
 The most challenging part was defining accurate task durations and dependencies. It took time to estimate how long each activity would take and how they connected logically in the timeline.
