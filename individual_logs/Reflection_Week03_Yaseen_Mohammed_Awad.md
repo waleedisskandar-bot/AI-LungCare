@@ -8,3 +8,6 @@ GitHub served as our central platform for storing and syncing project files. Tea
 
 ## What tasks will you refine next week?
 Next week, I will review the milestones and add buffer time for testing and validation to make the schedule more realistic.
+
+
+https://github.com/waleedisskandar-bot/AI-LungCare
