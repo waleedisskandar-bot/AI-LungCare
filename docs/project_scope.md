@@ -20,7 +20,7 @@ of the models
   Yaseen Mohammed Awad  
   Alwaleed Hassan Elyas  
 
-- **Supervisor / Client:**  
+- **Supervisor**  
   Dr. Farhan Khan, Senior Lecturer at UTeM Malacca, Assistant Professor at GIK Institute, Corporate Trainer of AI and Data Science
 
 ## Tools & Integration
