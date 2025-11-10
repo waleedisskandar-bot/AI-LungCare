@@ -1,0 +1,12 @@
+his week, I learned how important it is to plan our resources and costs early.  
+Before this lab, I never really thought about how much time or money each task can take, but when I started calculating, I saw that most of our cost comes from human work like data cleaning and model training.  
+
+I also realized that cloud GPU cost can grow fast if we keep training for long hours.  
+So next time I will try to plan the training sessions properly and use resources only when needed.  
+
+Working with my teammates also helped me understand how to divide work more clearly.  
+Everyone has a role — one handles the model, one handles the web system, and another connects everything.  
+By linking cost to our schedule, I can now see when our project will need more effort and time.  
+
+Overall, this lab was useful because it made me think like a real project manager, not just a developer.  
+It showed me that managing time, money, and people together is what keeps the project on track.
