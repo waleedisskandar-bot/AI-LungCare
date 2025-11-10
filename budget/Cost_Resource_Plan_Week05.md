@@ -3,7 +3,7 @@
 > Project: AI-LungCare  
 > Team: Waleed Isskandar Almandari, Yaseen Mohammed Awad, Alwaleed Hassan Elyas  
 > Supervisor: Dr. Farhan Khan (Senior Lecturer, UTeM Malacca; Assistant Professor, GIK Institute; Corporate Trainer of AI & Data Science)  
-> Date: [YYYY-MM-DD]
+> Date: 10/11/2025
 
 ## Links
 - Schedule (Planner/Excel): [add link or file path]
