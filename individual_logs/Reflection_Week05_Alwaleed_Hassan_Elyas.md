@@ -1,0 +1,11 @@
+# Reflection Week 05 - Alwaleed Hassan Elyas - B032310752
+https://github.com/waleedisskandar-bot/AI-LungCare
+
+## What was the most challenging part of managing cost and resources?
+The most challenging part was estimating the right cost for each task. It was not easy to decide how many hours we would actually spend, and the GPU usage also depends on how long the model training takes. I had to think carefully about how to balance time and money so the project stays realistic.
+
+## How did planning tools like Excel and GitHub help you in this process?
+Excel helped me organize all the costs and calculate totals clearly, while GitHub allowed us to update our budget and planning files easily as a team. Every change is recorded, so it’s simple to track updates and avoid confusion.
+
+## What tasks will you refine next week?
+Next week, I will focus on optimizing the GPU training time and reducing unnecessary hours. I also plan to refine our web integration tasks so we can stay on schedule and keep the total cost under control.
