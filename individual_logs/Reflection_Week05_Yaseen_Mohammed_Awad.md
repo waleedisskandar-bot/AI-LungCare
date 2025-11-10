@@ -1,6 +1,6 @@
 https://github.com/waleedisskandar-bot/AI-LungCare
 
-What was the most challenging part of building the cost plan?
+## What was the most challenging part of building the cost plan?
 
 The hardest part was turning our technical work into numbers. I had to think about every resource — people, hardware, and software — and calculate how much each one costs. It was new for me because I usually focus more on coding than budgeting.
 
