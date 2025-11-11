@@ -1,0 +1,11 @@
+# Reflection Week 04 - Waleed Isskandar Almandari - B032110765
+https://github.com/waleedisskandar-bot/AI-LungCare
+
+## What was the most challenging part of building the WBS?
+The most challenging part was setting realistic start and end dates for each task. It was also a bit tricky to connect related activities across different phases like data, model, and dashboard.
+
+## How did Excel and GitHub help in this process?
+Excel made it easier to list and format the tasks properly, while GitHub allowed everyone to view and update the latest version without mixing files. It was also helpful to have everything stored in one shared repository.
+
+## What tasks will you refine next week?
+Next week, I plan to review the dashboard integration tasks and ensure all parts are linked correctly with the backend model. I will also assist in preparing for the reporting phase.
